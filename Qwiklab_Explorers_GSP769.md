@@ -13,11 +13,11 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/GKE%20Workload%20Optimization/gsp769.sh
+curl -LO raw.githubusercontent.com/Titash-shil/GKE-Workload-Optimization-GSP769/refs/heads/main/qwiklab_explorers_gsp769.sh
 
-sudo chmod +x gsp769.sh
+sudo chmod +x qwiklab_explorers_gsp769.sh
 
-./gsp769.sh
+./qwiklab_explorers_gsp769.sh
 ```
 ---
 
